@@ -1,5 +1,5 @@
 {
-  "include": ["src/**/*","tests/**/*",".eslintrc.js"],
+  "include": ["src/**/*"],
   "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
     "noImplicitAny": false,
