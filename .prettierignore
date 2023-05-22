@@ -1,0 +1,11 @@
+dist
+generated
+.DS_Store
+.idea
+jest.config.js
+package.json
+package-lock.json
+*.md
+tsconfig.json
+.eslintrc.js
+.gitignore
