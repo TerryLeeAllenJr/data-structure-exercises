@@ -4,6 +4,13 @@ This includes a mermaid markdown generator class to dynamically generate diagram
 structures that can be viewed in any text editor that supports markdown (`.md`) with the `mermaid`
 syntax. (GitHub supports this by default.)
 
+<p align="center">
+    <img src="https://img.shields.io/github/license/TerryLeeAllenJr/data-structure-exercises"/>
+    <img src="https://img.shields.io/github/v/tag/TerryLeeAllenJr/data-structure-exercises"/>
+    <img src="https://img.shields.io/github/actions/workflow/status/TerryLeeAllenJr/data-structure-exercises/test.js.yml?label=tests"/>
+    <img src="https://img.shields.io/github/actions/workflow/status/TerryLeeAllenJr/data-structure-exercises/build.js.yml"/>
+</p>
+
 ```mermaid
 ---
 title: data-structrues
@@ -13,6 +20,7 @@ flowchart
     A --> C
     C --> D
 ```
+
 
 ---
 
